@@ -1,0 +1,10 @@
+{
+  "name": "moonclaw",
+  "displayName": "MoonClaw",
+  "version": "0.1.0",
+  "description": "MoonClaw cross-border e-commerce MCP: search the WestMonth ERP command catalog and run read and previewed write commands (shops, orders, products, publishing) with your UMC login.",
+  "author": { "name": "WestMonth" },
+  "homepage": "https://mcp.moonclaw.com",
+  "license": "MIT",
+  "keywords": ["ecommerce", "erp", "cross-border", "mcp"]
+}

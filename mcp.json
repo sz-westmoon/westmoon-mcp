@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "moonclaw": {
+      "type": "http",
+      "url": "https://mcp.moonclaw.com/mcp"
+    }
+  }
+}
